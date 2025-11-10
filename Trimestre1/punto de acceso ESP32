@@ -3,7 +3,7 @@ import socket
 import time
 
 # Configuración del AP
-SSID = "PROFEGALO"
+SSID = "sebas"
 PASSWORD = "12345678"
 
 ap = network.WLAN(network.AP_IF)
